@@ -1,0 +1,14 @@
+flask
+tensorflow
+pymongo
+scipy
+numpy
+keras
+sklearn
+scikit-learn
+matplotlib
+rembg
+opencv-python
+bs4
+webcolors
+flask_cors
